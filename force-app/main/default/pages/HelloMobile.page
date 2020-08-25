@@ -1,0 +1,6 @@
+<apex:page >
+<apex:form >
+    Hello mobile world
+    <apex:commandButton action="{!save}" value="Save" id="theButton"/>
+</apex:form>
+</apex:page>

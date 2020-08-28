@@ -22,12 +22,13 @@
     </types>
     <types>
         <members>*</members>
-        <name>AuraDefinitionBundle</name>
+        <name>CustomObject</name>
     </types>
     <types>
         <members>*</members>
-        <name>LightningComponentBundle</name>
+        <name>AuraDefinitionBundle</name>
     </types>
+    
     <types>
         <members>*</members>
         <name>StaticResource</name>
